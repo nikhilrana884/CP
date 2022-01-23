@@ -1,0 +1,47 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+
+#define f(i,a,b) for(long long i=a;i<b;i++)
+#define rf(i,a,b) for(long long i=a;i>=b;i--)
+#define ll long long
+#define mp make_pair
+#define pb push_back
+#define vll vector<long long>
+#define vvl vector<vll>
+#define pll pair<ll,ll>
+#define vc vector
+#define fi first
+#define se second
+#define lb lower_bound
+#define gcd __gcd
+#define p_q priority_queue
+#define pqmax priority_queue<ll>
+#define pqmin priority_queue<ll,vector<ll>,greater<ll>>
+#define all(x) x.begin(),x.end()
+#define minv(v) *min_element(v.begin(), v.end())
+#define maxv(v) *max_element(v.begin(), v.end())
+#define pi  M_PI
+#define inf  LONG_LONG_MAX
+#define setbits(x) buitin_popcountll(x)
+#define zrobits(x) builtin_ctzll(x)
+#define endl '\n'
+const int mod = 1e9 + 7;
+
+#define FAST1 ios_base::sync_with_stdio(false);
+#define FAST2 cin.tie(NULL);
+ 
+
+int main()
+{
+    FAST1;
+    FAST2;
+    ll t;
+    cin>>t;
+    while(t--)
+    {
+        ll n;
+        cin>>n;
+        cout<<endl;
+    }
+}
